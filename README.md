@@ -9,4 +9,3 @@ Large share purchases indicate purchasers have excess cash and the price should 
 This app has guidelines indicating the price per share volume ratio to the money supply.
 You can modify the app to observe your stock share size guidelines and your broker to place trades.
 QQQ and PSQ are used to indicate methods of trading long and short.
-
