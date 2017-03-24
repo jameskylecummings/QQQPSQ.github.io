@@ -1,11 +1,22 @@
-This app was created using Android Studio 2.1.1
-The suppy of money is inelastice based on the increase / decrease of Central Banker's decisions.
-Prices are elastice based on supply / demand of the needs and perceptions of the traders.
-This is reflected in the quantity purchasers can buy until they run out of money.
-For example, if a stock price is low, purchasers can buy a larger number of shares at a time.
-Conversely, if a stock price is high, purchasers can only buy a smaller number of shares at a time.
-This share per trade volume indicates if purchasers are running low on cash and the stock price should decline.
-Large share purchases indicate purchasers have excess cash and the price should increase.
-This app has guidelines indicating the price per share volume ratio to the money supply.
-You can modify the app to observe your stock share size guidelines and your broker to place trades.
-QQQ and PSQ are used to indicate methods of trading long and short.
+Our company has programmed 20 Android Apps.
+19 of the apps are various mathematical calculators.
+
+The 20th app is Version 6 of QQQPSQ and was created using Android Studio 2.2.3
+QQQPSQ is programmed to support users in 28 languages. 
+
+QQQPSQ will show the information using the default language of the user's Android device.
+If you purchase QQQPSQ's source code, you can use Android Studio to modify QQQPSQ to fit your needs.
+We are in the process of reprogramming all 20 of our apps for iPhones.
+
+The languages are:
+Afrikaans, Arabic, Bengali, Chinese, Czech, Dutch, English, Filipino, French, German, Hebrew, Hindi, Indonesian, Italian, Japanese, Javanese, Korean, Malay, Polish, Portuguese, Punjabi, Russian, Spanish, Thai, Turkish, Ukrainian, Urdu, Vietnamese
+
+Click this link to purchase QQQPSQ at the Google Play Store
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc.
+(include the period in URL)
+
+If you want to learn how to program Android Apps in foreign languages, here is the method.
+All that needed is an Intel i3 PC, 64 bit Windows 10, free Android Studio and a bright idea.
+Click this link to purchase the QQQPSQ Source Code
+http://www.lasallesoftware.com/lasalle005.htm
+
