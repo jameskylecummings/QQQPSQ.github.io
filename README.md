@@ -19,4 +19,5 @@ All that needed is an Intel i3 PC, 64 bit Windows 10, free Android Studio and a 
 Click this link to purchase the QQQPSQ Source Code
 http://www.lasallesoftware.com/lasalle005.htm
 
-QQQPSQ-EnglishOnly.zip APK is available for download and evaluation
+QQQPSQ-EnglishOnly.zip APK is available for download and evaluation at https://github.com/QQQPSQ/QQQPSQ.github.io
+
