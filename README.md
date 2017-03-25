@@ -12,11 +12,11 @@ The languages are:
 Afrikaans, Arabic, Bengali, Chinese, Czech, Dutch, English, Filipino, French, German, Hebrew, Hindi, Indonesian, Italian, Japanese, Javanese, Korean, Malay, Polish, Portuguese, Punjabi, Russian, Spanish, Thai, Turkish, Ukrainian, Urdu, Vietnamese
 
 Click this link to purchase QQQPSQ at the Google Play Store
-https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc.
-(include the period in URL)
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (include the period in URL)
 
 If you want to learn how to program Android Apps in foreign languages, here is the method.
 All that needed is an Intel i3 PC, 64 bit Windows 10, free Android Studio and a bright idea.
 Click this link to purchase the QQQPSQ Source Code
 http://www.lasallesoftware.com/lasalle005.htm
 
+QQQPSQ-EnglishOnly.zip APK is available for download and evaluation
