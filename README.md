@@ -131,5 +131,41 @@ QQQPSQ_28_Languages.zip APK זמין להורדה ולהערכה ב
 Https://github.com/QQQPSQ/QQQPSQ.github.io
 כדי להתקין בטלפון אנדרואיד שלך, להוריד, לפתוח, להעתיק לטלפון שלך, הקבצים שלי, לחץ על QQQPSQ.APK, מתקין החבילות, רק פעם אחת, התקן, פתח, תהנה.
 
+हमारी कंपनी ने 20 एंड्रॉइड ऐप्स प्रोग्राम किए हैं 1 9 एप्स में विभिन्न गणितीय कैलकुलेटर हैं
+20 वीं ऐप QQQPSQ का संस्करण 6 है और एंड्रॉइड स्टूडियो 2.2.3 का उपयोग करके बनाया गया था। QQQPSQ को 28 भाषाओं में उपयोगकर्ताओं को समर्थन देने के लिए प्रोग्राम किया गया है।
+QQQPSQ उपयोगकर्ता के एंड्रॉइड डिवाइस की डिफ़ॉल्ट भाषा का उपयोग कर जानकारी दिखाएगा। यदि आप QQQPSQ के स्रोत कोड खरीदते हैं, तो आप अपनी आवश्यकताओं के अनुरूप QQQPSQ को संशोधित करने के लिए एंड्रॉइड स्टूडियो का उपयोग कर सकते हैं। हम iPhones के लिए हमारे सभी 20 ऐप के लिए reprogramming की प्रक्रिया में हैं
+Google Play Store पर QQQPSQ को खरीदने के लिए इस लिंक पर क्लिक करें
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc (URL में अवधि शामिल करें)
+यदि आप सीखना चाहते हैं कि कैसे विदेशी भाषाओं में एंड्रॉइड ऐप को प्रोग्राम करना है, तो यह विधि है। इसकी ज़रूरत एक इंटेल आई 3 पीसी, 64 बिट विंडोज़ 10, मुफ्त एंड्रॉइड स्टूडियो और एक उज्ज्वल विचार है।
+QQQPSQ स्रोत कोड खरीदने के लिए इस लिंक पर क्लिक करें
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip एपीके डाउनलोड और मूल्यांकन के लिए उपलब्ध है
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+अपने एंड्रॉइड फोन पर स्थापित करने के लिए, डाउनलोड करें, अनज़िप करें, अपने फोन पर कॉपी करें, मेरी फ़ाइलें, QQQPSQ.APK पर क्लिक करें, पैकेज इंस्टालर, बस एक बार, इंस्टॉल करें, खोलें, आनंद लें
+
+Perusahaan kami telah memprogram 20 Android Apps. 19 dari aplikasi ini adalah berbagai kalkulator matematis.
+Aplikasi ke-20 adalah Versi 6 dari QQQPSQ dan dibuat menggunakan Android Studio 2.2.3 QQQPSQ diprogram untuk mendukung pengguna dalam 28 bahasa.
+QQQPSQ akan menampilkan informasi menggunakan bahasa default perangkat Android pengguna. Jika Anda membeli kode sumber QQQPSQ, Anda dapat menggunakan Android Studio untuk memodifikasi QQQPSQ agar sesuai dengan kebutuhan Anda. Kami sedang dalam proses memprogram ulang semua 20 aplikasi kami untuk iPhone.
+Klik tautan ini untuk membeli QQQPSQ di Google Play Store
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Sertakan periode di URL)
+Jika Anda ingin belajar bagaimana memprogram aplikasi Android dalam bahasa asing, inilah caranya. Yang dibutuhkan hanyalah Intel i3 PC, 64 bit Windows 10, free Android Studio dan ide cemerlang.
+Klik tautan ini untuk membeli Kode Sumber QQQPSQ
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK tersedia untuk download dan evaluasi di
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Untuk menginstal di ponsel Android Anda, Download, Unzip, Salin ke telepon Anda, My Files, Klik QQQPSQ.APK, Package Installer, Just Once, Install, Open, Enjoy
+
+La nostra azienda ha programmato 20 applicazioni Android. 19 delle applicazioni sono varie calcolatrici matematiche.
+La 20a applicazione è la versione 6 di QQQPSQ ed è stata creata usando Android Studio 2.2.3 QQQPSQ è programmata per supportare gli utenti in 28 lingue.
+QQQPSQ mostrerà le informazioni utilizzando la lingua predefinita del dispositivo Android dell'utente. Se si acquista il codice sorgente di QQQPSQ, è possibile utilizzare Android Studio per modificare QQQPSQ in base alle proprie esigenze. Siamo in fase di riprogrammazione di tutte le 20 delle nostre applicazioni per i telefoni iPhones.
+Fai clic su questo link per acquistare QQQPSQ presso Google Play Store
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Includere il periodo in URL)
+Se vuoi imparare a programmare applicazioni Android in lingue straniere, ecco il metodo. Tutto quello che serve è un PC Intel i3, 64 bit Windows 10, Android Studio gratuito e un'idea brillante.
+Fare clic su questo collegamento per acquistare il codice sorgente QQQPSQ
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK è disponibile per il download e la valutazione a
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Per installare sul tuo telefono Android, Scaricare, Unzip, Copia sul tuo telefono, Miei file, Fare clic su QQQPSQ.APK, Installazione pacchetti, solo una volta, Installa, Apri, Enjoy.
+
 
 
