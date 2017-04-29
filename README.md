@@ -167,5 +167,41 @@ QQQPSQ_28_Languages.zip APK è disponibile per il download e la valutazione a
 Https://github.com/QQQPSQ/QQQPSQ.github.io
 Per installare sul tuo telefono Android, Scaricare, Unzip, Copia sul tuo telefono, Miei file, Fare clic su QQQPSQ.APK, Installazione pacchetti, solo una volta, Installa, Apri, Enjoy.
 
+当社は20のAndroidアプリをプログラムしています。アプリの19は様々な数学的な計算機です。
+20番目のアプリはQQQPSQのバージョン6で、Android Studio 2.2.3を使用して作成されました。QQQPSQは28言語でユーザーをサポートするようにプログラムされています。
+QQQPSQは、ユーザーのAndroidデバイスのデフォルト言語を使用して情報を表示します。 QQQPSQのソースコードを購入した場合は、Android Studioを使用して、必要に応じてQQQPSQを変更することができます。私たちは、iPhone用の20種類のアプリをすべて再プログラミングしています。
+Google PlayストアでQQQPSQを購入するには、このリンクをクリックしてください
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc。 （URLにピリオドを含める）
+外国語でAndroidアプリをプログラミングする方法を知りたい場合は、こちらの方法があります。必要なのは、Intel i3 PC、64ビットWindows 10、無料のAndroid Studio、明るいアイデアです。
+QQQPSQソースコードを購入するには、このリンクをクリックしてください
+http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APKのダウンロードと評価が可能です
+https://github.com/QQQPSQ/QQQPSQ.github.io
+あなたのAndroid携帯にインストールするには、ダウンロード、解凍、携帯電話へのコピー、マイファイル、QQQPSQ.APK、パッケージインストーラ、ジャストワンス、インストール、開く、お楽しみください。
+
+Our company wis diprogram 20 Android Apps. 19 saka app macem-macem kalkulator matematika.
+Ing app 20 iku Version 6 of QQQPSQ lan digawé nggunakake Android Studio 2.2.3 QQQPSQ wis diprogram kanggo ndhukung pangguna ing 28 basa.
+QQQPSQ bakal nuduhake informasi nggunakake basa gawan saka piranti Android pangguna. Yen sampeyan tuku kode sumber QQQPSQ kang, sampeyan bisa nggunakake Android Studio kanggo ngowahi QQQPSQ pas karo kabutuhan. We are ing proses Reprogramming kabeh 20 apps kita kanggo iPhone.
+Klik link iki kanggo tuku QQQPSQ ing Google Play Store
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Kalebu periode ing URL)
+Yen sampeyan arep kanggo mangerteni carane program Android Apps ing basa manca, punika cara. Kabeh sing perlu iku sawijining i3 PC Intel, 64 dicokot Windows 10, free Android Studio lan idea padhang.
+Klik link iki kanggo tuku QQQPSQ Source Code
+http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip apk kasedhiya kanggo download lan evaluasi ing
+https://github.com/QQQPSQ/QQQPSQ.github.io
+Kanggo nginstal ing telpon Android piranti, Download, Unzip, Salin menyang telpon, File Kula, Klik QQQPSQ.APK, Paket Installer, Cukup Sawise, Instal, Open, Seneng.
+
+우리 회사는 20 개의 Android 앱을 프로그래밍했습니다. 19 가지 앱은 다양한 수학 계산기입니다.
+20 번째 앱은 QQQPSQ의 버전 6이며 Android Studio 2.2.3을 사용하여 작성되었습니다. QQQPSQ는 28 개 언어로 사용자를 지원하도록 프로그래밍되었습니다.
+QQQPSQ는 사용자의 Android 디바이스의 기본 언어를 사용하여 정보를 표시합니다. QQQPSQ의 소스 코드를 구매하면 Android Studio를 사용하여 사용자의 필요에 맞게 QQQPSQ를 수정할 수 있습니다. 우리는 iPhone 용 20 개의 애플 리케이션을 모두 다시 프로그래밍하는 중입니다.
+Google Play 스토어에서 QQQPSQ를 구매하려면이 링크를 클릭하십시오.
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (URL에 마침표 포함)
+외국어로 Android 앱을 프로그래밍하는 방법을 배우고 싶다면 다음과 같은 방법이 있습니다. 필요한 모든 것은 Intel i3 PC, 64 비트 Windows 10, 무료 Android Studio 및 밝은 아이디어입니다.
+QQQPSQ 소스 코드를 구매하려면이 링크를 클릭하십시오.
+http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK는에서 다운로드 및 평가할 수 있습니다.
+https://github.com/QQQPSQ/QQQPSQ.github.io
+안드로이드 전화에 설치하려면, 다운로드, 압축 해제, 휴대 전화로 복사, 내 파일, QQQPSQ.APK, 패키지 설치 프로그램, 한 번만 설치, 열기, 즐기기를 클릭하십시오.
+
 
 
