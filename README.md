@@ -203,5 +203,136 @@ QQQPSQ_28_Languages.zip APK는에서 다운로드 및 평가할 수 있습니다
 https://github.com/QQQPSQ/QQQPSQ.github.io
 안드로이드 전화에 설치하려면, 다운로드, 압축 해제, 휴대 전화로 복사, 내 파일, QQQPSQ.APK, 패키지 설치 프로그램, 한 번만 설치, 열기, 즐기기를 클릭하십시오.
 
+Syarikat kami telah diprogramkan 20 Android Apps. 19 aplikasi pelbagai kalkulator matematik.
+Aplikasi 20th Versi 6 QQQPSQ dan telah dicipta menggunakan Android Studio 2.2.3 QQQPSQ diprogramkan untuk menyokong pengguna dalam 28 bahasa.
+QQQPSQ akan menunjukkan maklumat yang menggunakan bahasa lalai peranti Android pengguna. Jika anda membeli kod sumber QQQPSQ, anda boleh menggunakan Android Studio untuk mengubah suai QQQPSQ untuk memenuhi keperluan anda. Kami sedang dalam proses memprogram semula semua 20 daripada aplikasi kami untuk iPhone.
+Klik pautan ini untuk membeli QQQPSQ di Gedung Google Play
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Termasuk tempoh di URL)
+Jika anda mahu belajar bagaimana untuk program Android Apps dalam bahasa-bahasa asing, di sini adalah kaedah. Semua yang diperlukan adalah i3 PC Intel, 64 bit Windows 10, percuma Android Studio dan idea yang cerah.
+Klik pautan ini untuk membeli QQQPSQ Kod Sumber
+http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK boleh dimuat turun dan penilaian pada
+https://github.com/QQQPSQ/QQQPSQ.github.io
+Untuk memasang pada telefon Android anda, turun, Unzip, Salin ke telefon anda, Fail-fail saya, Klik QQQPSQ.APK, Pakej Installer, Just Once, Memasang, Open, Enjoy.
 
+Nasza firma zaprogramowała 20 aplikacji na Androida. 19 aplikacji to różne kalkulatory matematyczne.
+Aplikacja 20th jest wersją 6 QQQPSQ i została utworzona przy użyciu Android Studio 2.2.3 QQQPSQ została zaprogramowana w celu obsługi użytkowników w 28 językach.
+QQQPSQ wyświetli informacje z domyślnym językiem urządzenia Androida użytkownika. Jeśli zakupisz kod źródłowy QQQPSQ, możesz użyć Android Studio, aby zmodyfikować QQQPSQ tak, aby odpowiadał Twoim potrzebom. Jesteśmy w trakcie przeprogramowania wszystkich 20 naszych aplikacji na iPhonów.
+Kliknij ten link, aby kupić QQQPSQ w sklepie Google Play
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (W tym adres URL)
+Jeśli chcesz się dowiedzieć, jak programować aplikacje na Androida w językach obcych, oto metoda. Potrzebne jest tylko komputer Intel i3, 64-bitowy system Windows 10, bezpłatny Android Studio i świetny pomysł.
+Kliknij ten link, aby kupić kod źródłowy QQQPSQ
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK jest dostępny do pobrania i oceny na stronie
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Aby zainstalować na telefonie z systemem Android, pobierz, rozpakuj, skopiuj do telefonu, Moje pliki, kliknij przycisk QQQPSQ.APK, instalator pakietów, wystarczy, raz, zainstaluj, otwórz, ciesz się.
+
+Nossa empresa tem programado 20 Apps Android. 19 das aplicações são várias calculadoras matemáticas.
+O aplicativo 20 é a versão 6 do QQQPSQ e foi criado usando o Android Studio 2.2.3 O QQQPSQ é programado para oferecer suporte a usuários em 28 idiomas.
+QQQPSQ mostrará as informações usando o idioma padrão do dispositivo Android do usuário. Se você comprar o código-fonte do QQQPSQ, você pode usar o Android Studio para modificar o QQQPSQ para atender às suas necessidades. Estamos no processo de reprogramação de todos os nossos 20 aplicativos para iPhones.
+Clique neste link para comprar o QQQPSQ na Google Play Store
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Incluir o período em URL)
+Se você quiser aprender a programar aplicativos Android em idiomas estrangeiros, aqui está o método. Tudo o que é necessário é um Intel i3 PC, 64 bits do Windows 10, Android Studio livre e uma idéia brilhante.
+Clique neste link para comprar o QQQPSQ Source Code
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK está disponível para download e avaliação em
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Para instalar em seu telefone Android, Baixar, Descompactar, Copiar para o telefone, Meus Arquivos, Clique em QQQPSQ.APK, Instalador de Pacotes, Apenas Uma Vez, Instale, Aberto, Divirta-se.
+
+ਸਾਡੀ ਕੰਪਨੀ ਨੇ 20 ਐਡਰਾਇਡ ਐਪਸ ਨੂੰ ਯੋਜਨਾਬੱਧ ਕੀਤਾ ਹੈ. ਐਪਸ ਦੇ 19 ਵੱਖ-ਵੱਖ ਗਣਿਤਕ ਕੈਲਕੂਲੇਟਰ ਹਨ.
+20 ਵਾਂ ਐਪ QQQPSQ ਦਾ ਵਰਜਨ 6 ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਐਂਡ੍ਰਾਇਡ ਸਟੂਡੀਓ 2.2.3 ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ ਸੀ. QQQPSQ ਨੂੰ 28 ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਉਪਭੋਗਤਾਵਾਂ ਦੀ ਸਹਾਇਤਾ ਕਰਨ ਲਈ ਪ੍ਰੋਗ੍ਰਾਮ ਕੀਤਾ ਗਿਆ ਹੈ.
+QQQPSQ ਉਪਭੋਗਤਾ ਦੇ Android ਡਿਵਾਈਸ ਦੀ ਡਿਫੌਲਟ ਭਾਸ਼ਾ ਦਾ ਉਪਯੋਗ ਕਰਕੇ ਜਾਣਕਾਰੀ ਦਿਖਾਏਗਾ. ਜੇ ਤੁਸੀਂ QQQPSQ ਦੇ ਸਰੋਤ ਕੋਡ ਨੂੰ ਖਰੀਦਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਆਪਣੀ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ QQQPSQ ਨੂੰ ਬਦਲਣ ਲਈ ਐਂਡਰਾਇਡ ਸਟੂਡਿਓ ਵਰਤ ਸਕਦੇ ਹੋ. ਅਸੀਂ iPhones ਲਈ ਸਾਡੇ ਸਾਰੇ 20 ਐਪਸ ਦੀ ਮੁੜ ਪ੍ਰੋਗ੍ਰਾਮਿੰਗ ਕਰਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਵਿੱਚ ਹਾਂ
+Google Play Store ਤੇ QQQPSQ ਖਰੀਦਣ ਲਈ ਇਸ ਲਿੰਕ ਤੇ ਕਲਿਕ ਕਰੋ
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc (URL ਵਿੱਚ ਮਿਆਦ ਸ਼ਾਮਲ ਕਰੋ)
+ਜੇ ਤੁਸੀਂ ਵਿਦੇਸ਼ੀ ਭਾਸ਼ਾਵਾਂ ਵਿਚ Android ਐਪਸ ਨੂੰ ਕਿਵੇਂ ਪ੍ਰੋਗਰਾਮ ਕਰਨਾ ਸਿੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਇਹ ਤਰੀਕਾ ਹੈ. ਸਭ ਲੋੜੀਂਦਾ ਹੈ ਇੱਕ Intel i3 PC, 64 ਬਿਟ ਵਿੰਡੋਜ਼ 10, ਮੁਫ਼ਤ ਐਂਡਰੌਇਡ ਸਟੂਡਿਓ ਅਤੇ ਇੱਕ ਸ਼ਾਨਦਾਰ ਵਿਚਾਰ.
+QQQPSQ ਸਰੋਤ ਕੋਡ ਖਰੀਦਣ ਲਈ ਇਸ ਲਿੰਕ 'ਤੇ ਕਲਿੱਕ ਕਰੋ
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip ਏਪੀਕੇ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਪੜਤਾਲ ਲਈ ਉਪਲਬਧ ਹੈ
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+ਆਪਣੇ ਐਂਡਰੌਇਡ ਫੋਨ ਤੇ ਸਥਾਪਿਤ ਕਰਨ ਲਈ, ਡਾਉਨਲੋਡ ਕਰੋ, ਅਨਜਿਪ ਕਰੋ, ਆਪਣੇ ਫੋਨ ਤੇ ਕਾਪੀ ਕਰੋ, ਮੇਰੀ ਫਾਈਲਾਂ, ਕਿਊ QQQPSQ.APK, ਪੈਕੇਜ ਇੰਸਟੌਲਰ ਤੇ ਕਲਿਕ ਕਰੋ, ਬਸ ਇੱਕ ਵਾਰ ਇੰਸਟਾਲ ਕਰੋ, ਖੋਲ੍ਹੋ, ਮਜ਼ੇ ਕਰੋ
+
+Наша компания запрограммировала 20 приложений для Android. 19 из приложений - различные математические калькуляторы.
+20-е приложение - версия 6 QQQPSQ и было создано с использованием Android Studio 2.2.3. QQQPSQ запрограммирован для поддержки пользователей на 28 языках.
+QQQPSQ покажет информацию, используя язык по умолчанию на Android-устройстве пользователя. Если вы приобрели исходный код QQQPSQ, вы можете использовать Android Studio для изменения QQQPSQ в соответствии с вашими потребностями. Мы находимся в процессе перепрограммирования всех 20 наших приложений для iPhone.
+Нажмите эту ссылку, чтобы купить QQQPSQ в Google Play Store
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Включая период в URL)
+Если вы хотите узнать, как программировать приложения Android на иностранных языках, вот метод. Все, что нужно, это ПК Intel i3, 64-битная Windows 10, бесплатная студия Android и яркая идея.
+Нажмите эту ссылку, чтобы купить исходный код QQQPSQQQQ.
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK доступен для загрузки и оценки по адресу:
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Чтобы установить на свой телефон Android, Загрузите, разархивируйте, скопируйте на свой телефон, Мои файлы, нажмите QQQPSQ.APK, Install Package, Just Once, Install, Open, Enjoy.
+
+Nuestra empresa ha programado 20 aplicaciones para Android. 19 de las aplicaciones son varias calculadoras matemáticas.
+La aplicación 20 es la versión 6 de QQQPSQ y fue creada con Android Studio 2.2.3 QQQPSQ está programado para apoyar a los usuarios en 28 idiomas.
+QQQPSQ mostrará la información utilizando el idioma predeterminado del dispositivo Android del usuario. Si compra el código fuente de QQQPSQ, puede usar Android Studio para modificar QQQPSQ para satisfacer sus necesidades. Estamos en proceso de reprogramar todas las 20 de nuestras aplicaciones para iPhones.
+Haz clic en este enlace para comprar QQQPSQ en Google Play Store.
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Incluya el período en URL)
+Si quieres aprender a programar aplicaciones de Android en idiomas extranjeros, aquí está el método. Todo lo que se necesita es un Intel i3 PC, 64 bits de Windows 10, Android Studio libre y una idea brillante.
+Haga clic en este enlace para adquirir el código fuente QQQPSQ
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK está disponible para descarga y evaluación en
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Para instalarlo en su teléfono Android, descargue, descomprima, copie a su teléfono, Mis archivos, haga clic en QQQPSQ.APK, instalador de paquetes, solo una vez, instale, abra y disfrute.
+
+บริษัท ของเราได้ตั้งโปรแกรมแอนดรอยด์ไว้ 20 แอ็ป 19 ของปพลิเคชันที่มีเครื่องคำนวณทางคณิตศาสตร์ต่างๆ
+แอป 20 เป็นเวอร์ชัน 6 ของ QQQPSQ และสร้างขึ้นโดยใช้ Android Studio 2.2.3 QQQPSQ ได้รับการตั้งโปรแกรมเพื่อสนับสนุนผู้ใช้ใน 28 ภาษา
+QQQPSQ จะแสดงข้อมูลโดยใช้ภาษาเริ่มต้นของอุปกรณ์ Android ของผู้ใช้ หากคุณซื้อซอร์สโค้ด QQQPSQ คุณสามารถใช้ Android Studio เพื่อปรับเปลี่ยน QQQPSQ เพื่อให้เหมาะกับความต้องการของคุณ เราอยู่ในระหว่างการตั้งโปรแกรมใหม่ทั้งหมด 20 แอปสำหรับ iPhones
+คลิกลิงก์นี้เพื่อซื้อ QQQPSQ ที่ Google Play สโตร์
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc (รวมระยะเวลาใน URL)
+ถ้าคุณต้องการเรียนรู้วิธีการตั้งโปรแกรมแอนดรอยด์ในภาษาต่างประเทศนี่คือวิธีการ ทั้งหมดที่จำเป็นต้องใช้คือ Intel i3 PC, Windows 10 64 บิต, Android Studio ฟรีและความคิดที่สดใส
+คลิกที่ลิงค์นี้เพื่อซื้อรหัสแหล่งที่มา QQQPSQ
+http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK สามารถดาวน์โหลดและประเมินผลได้ที่
+https://github.com/QQQPSQ/QQQPSQ.github.io
+หากต้องการติดตั้งบนโทรศัพท์ Android ของคุณให้ดาวน์โหลดคลายซิปคัดลอกไปยังโทรศัพท์ไฟล์ My Files คลิก QQQPSQ.APK ติดตั้งแพคเกจเพียงครั้งเดียวติดตั้งเปิดเพลิดเพลิน
+
+Firmamız 20 Android Apps programlamıştır. Uygulamalardan 19'u çeşitli matematiksel hesap makineleri.
+20. uygulama QQQPSQ sürüm 6'dır ve Android Studio 2.2.3 kullanılarak oluşturulmuştur. QQQPSQ, 28 dilde kullanıcıları destekleyecek şekilde programlanmıştır.
+QQQPSQ, kullanıcının Android cihazının varsayılan dilini kullanarak bilgileri gösterir. QQQPSQ'nun kaynak kodunu satın alırsanız ihtiyaçlarınıza uyacak şekilde QQQPSQ'yi değiştirmek için Android Studio'yu kullanabilirsiniz. IPhone'lar için 20 uygulamanızı yeniden programlama sürecindeyiz.
+Google Play Store'da QQQPSQ satın almak için bu bağlantıyı tıklayın
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (URL'deki dönemi de dahil edin)
+Yabancı dillerde Android Uygulamalarını nasıl öğreneceğinizi öğrenmek istiyorsanız, yöntemi burada bulabilirsiniz. İhtiyacınız olan şey bir Intel i3 PC, 64 bit Windows 10, ücretsiz Android Studio ve parlak bir fikir.
+QQQPSQ Kaynak Kodu'nu satın almak için bu bağlantıyı tıklayın
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK, şu adresten indirilebilir ve değerlendirilebilir:
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Android telefonunuza yüklemek için, İndirin, Sıkıştırın, telefonunuza kopyalayın, Dosyalarım, QQQPSQ.APK, Paket Yükleyici'yi, Bir Kez, Kurulum, Aç, Zevk'e tıklayın.
+
+Наша компанія запрограмувала 20 Android Apps. 19 з додатків різні математичні калькулятори.
+Двадцяте додаток версія 6 з QQQPSQ і було створено за допомогою Android Studio 2.2.3 QQQPSQ запрограмовано для підтримки користувачів на 28 мовах.
+QQQPSQ покаже інформацію, використовуючи мову за замовчуванням Android пристрої користувача. Якщо ви купуєте вихідний код QQQPSQ, ви можете використовувати Android Studio, щоб змінити QQQPSQ відповідно до ваших потреб. Ми знаходимося в процесі перепрограмування всіх 20 наших додатків для айфонів.
+Натисніть це посилання, щоб купити QQQPSQ в Google Play Маркеті
+https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Включає в себе період в URL)
+Якщо ви хочете навчитися програмувати Android програми та додатки на іноземних мовах, тут метод. Все, що необхідно, так це i3 ПК Intel, 64 біт для Windows 10, безкоштовно Android студії і яскрава ідея.
+Натисніть це посилання, щоб купити QQQPSQ Вихідний код
+http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK доступний для завантаження і оцінки на
+https://github.com/QQQPSQ/QQQPSQ.github.io
+Для того, щоб встановити на свій Android телефон, скачати, розпакувати, скопіювати в телефон, файли, натисніть QQQPSQ.APK, пакет установки, тільки один раз, встановити, Open, Enjoy.
+
+ہماری کمپنی 20 لوڈ، اتارنا Android اطلاقات پروگرام کیا ہے. اطلاقات میں سے 19 مختلف ریاضیاتی کیلکولیٹرز ہیں.
+کی 20th ایپ QQQPSQ کا ورژن 6 ہے اور لوڈ، اتارنا Android سٹوڈیو کا استعمال کرتے ہوئے 2.2.3 QQQPSQ 28 زبانوں میں صارفین کی حمایت کے لئے پروگرام ہے پیدا کیا گیا تھا.
+QQQPSQ صارف کی لوڈ، اتارنا Android آلہ کے پہلے سے طے شدہ زبان کا استعمال کرتے ہوئے معلومات دکھائے گا. آپ QQQPSQ کے ماخذ کوڈ کی خریداری، تو آپ کو آپ کی ضروریات کو فٹ ہونے کے لئے QQQPSQ نظر ثانی کرنے کی لوڈ، اتارنا Android سٹوڈیو استعمال کر سکتے ہیں. ہم آئی فونز کے لئے ہمارے اطلاقات کے تمام 20 ری پروگرامنگ کے عمل میں ہیں.
+گوگل کھیلیں سٹور میں QQQPSQ کی خریداری کے لئے اس لنک پر کلک کریں
+https://play.google.com/store/apps/developer؟id=La+Salle+Software+Inc. (URL میں مدت میں شامل ہیں)
+آپ کو غیر ملکی زبانوں میں لوڈ، اتارنا Android اطلاقات پروگرام کے لئے کس طرح جاننے کے لئے چاہتے ہیں، تو یہاں طریقہ ہے. ضرورت ہے کہ تمام ایک انٹیل I3 PC ہے، 64 بٹ ونڈوز 10، ڈاؤن لوڈ، اتارنا Android سٹوڈیو اور ایک روشن خیال.
+QQQPSQ ماخذ کوڈ کی خریداری کے لئے اس لنک پر کلک کریں
+http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK ڈاؤن لوڈ اور اوپر تشخیص کے لئے دستیاب ہے
+https://github.com/QQQPSQ/QQQPSQ.github.io
+اپنے Android فون پر انسٹال کرنے کے لئے، ڈاؤن لوڈ، ان زپ، آپ کے فون، میری فائلوں کو کاپی کریں، کھولیں، کا لطف اٹھائیں، QQQPSQ.APK، پیکیج انسٹالر، صرف ایک بار انسٹال پر کلک کریں.
+
+
+Công ty chúng tôi đã lập trình 20 ứng dụng Android. 19 trong số các ứng dụng là các máy tính toán học khác nhau.
+Ứng dụng thứ 20 là phiên bản 6 của QQQPSQ và được tạo bằng Android Studio 2.2.3 QQQPSQ được lập trình để hỗ trợ người dùng bằng 28 ngôn ngữ.
+QQQPSQ sẽ hiển thị thông tin sử dụng ngôn ngữ mặc định của thiết bị Android của người dùng. Nếu bạn mua mã nguồn của QQQPSQ, bạn có thể sử dụng Android Studio để sửa đổi QQQPSQ để phù hợp với nhu cầu của bạn. Chúng tôi đang trong quá trình lập trình lại tất cả 20 ứng dụng của chúng tôi cho iPhone.
+Nhấp vào liên kết này để mua QQQPSQ tại Cửa hàng Google Play
+Https://play.google.com/store/apps/developer?id=La+Salle+Software+Inc. (Bao gồm khoảng thời gian trong URL)
+Nếu bạn muốn tìm hiểu cách lập trình Android Apps bằng ngoại ngữ, đây là phương pháp. Tất cả những gì cần là máy tính Intel i3, Windows 10 64 bit, Android Studio miễn phí và một ý tưởng sáng suốt.
+Nhấp vào liên kết này để mua mã nguồn QQQPSQ
+Http://www.lasallesoftware.com/lasalle005.htm
+QQQPSQ_28_Languages.zip APK có sẵn để tải xuống và đánh giá tại
+Https://github.com/QQQPSQ/QQQPSQ.github.io
+Để cài đặt trên điện thoại Android của bạn, Tải xuống, Giải nén, Sao chép vào điện thoại của bạn, Tệp của tôi, Nhấp vào QQQPSQ.APK, Trình cài đặt Gói, Chỉ cần Một lần, Cài đặt, Mở, Thưởng thức.
 
